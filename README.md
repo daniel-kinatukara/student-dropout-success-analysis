@@ -70,7 +70,7 @@ Excluding zero-grade records reduced the difference between graduates and dropou
 
 ## Interactive Dashboard
 
-[[View on Tableau Public](https://public.tableau.com:9443/views/FinalStudentDropoutDashboard/StudentDropoutStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[[View on Tableau Public][(https://public.tableau.com:9443/views/FinalStudentDropoutDashboard/StudentDropoutStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)](https://public.tableau.com/views/FinalStudentDropoutDashboard/StudentDropoutStory)
 
 ## Business Recommendations
 
